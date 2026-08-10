@@ -2,11 +2,11 @@
 
 > Projeto e layout de uma **placa de circuito impresso (PCB)** para um **driver de iluminação de estado sólido (LEDs)** baseado em um **Conversor Ressonante Auto-Oscilante (CRAO)**, com seleção modular da topologia do filtro ressonante (**LLC, LCC e LC**). O acionamento do meio-ponte é feito por **circuito puramente discreto e analógico**, dispensando circuitos integrados dedicados de *gate drive*.
 
-<!-- Badges opcionais — descomente e ajuste
+
 ![EDA](https://img.shields.io/badge/EDA-Altium%20Designer-blue)
 ![Layers](https://img.shields.io/badge/PCB-2%20camadas-green)
 ![Status](https://img.shields.io/badge/vers%C3%A3o-1.0-lightgrey)
--->
+
 
 ---
 
@@ -87,13 +87,12 @@ Projetado dentro dos limites de um processo padrão de **PCB de 2 camadas**, man
 
 ```
 .
-├── projeto-altium/          # Projeto fonte: .PrjPcb, .SchDoc, .PcbDoc, .SchLib, .PcbLib
+├── projeto-altium/          # Projeto fonte: .PrjPcb, .SchDoc, .PcbDoc
 ├── esquematico/             # Esquemático completo em PDF
 ├── fabricacao/
 │   ├── gerber/              # Camadas Gerber (RS-274X): cobre, máscara, serigrafia, contorno
 │   └── nc_drill/            # Arquivos de furação (Excellon) e mapa de furos
 ├── bom/                     # Lista de materiais (.xlsx)
-├── relatorio/               # Relatório de projeto de PCB (.pdf)
 └── README.md
 ```
 
@@ -119,4 +118,4 @@ Relatório: versão 1.0, junho de 2026.
 
 ## Licença
 
-> **A definir.** Sugestões: **CERN-OHL** (licença aberta específica para hardware), **MIT** (permissiva, para os arquivos de projeto) ou **CC BY 4.0** (documentação/figuras). Como o projeto está vinculado a uma pesquisa em andamento, **confirme com o(s) orientador(es)** o que pode ser divulgado antes de tornar o repositório público. Crie um arquivo `LICENSE` na raiz com o texto escolhido.
+> **MIT** (permissiva, para os arquivos de projeto)
