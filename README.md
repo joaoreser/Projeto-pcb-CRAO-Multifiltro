@@ -63,9 +63,9 @@ O trabalho foi desenvolvido como **Projeto Individual** na Universidade Federal 
 
 ## Escopo
 
-**Incluído:** captura completa do esquemático e associação de footprints validados; dimensionamento de trilhas e dimensionamento térmico; roteamento de trilhas de alta frequência com minimização de caminho; seleção modular das topologias de filtro; monitoramento de corrente por efeito Hall (ACS712) e pontos de teste; geração dos arquivos industriais (Gerber e NC Drill).
+**Incluído:** captura completa do esquemático e associação de footprints validados; dimensionamento de trilhas e dimensionamento térmico; roteamento de trilhas de alta frequência com minimização de caminho; seleção modular das topologias de filtro; monitoramento de corrente por efeito Hall (ACS712) e pontos de teste; geração dos arquivos industriais (Gerber e NC Drill); montagem e fabricação comercial da placa.
 
-**Fora do escopo (nesta versão):** montagem e fabricação comercial da placa; controle digital em microcontrolador de alto desempenho; estágio integrado de Correção de Fator de Potência (CFP).
+**Fora do escopo (nesta versão):**controle digital em microcontrolador; estágio integrado de Correção de Fator de Potência (CFP).
 
 ---
 
