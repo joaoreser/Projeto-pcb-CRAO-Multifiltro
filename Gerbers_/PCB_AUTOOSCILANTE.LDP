@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\joao\Desktop\AUTOOSCILANTE_NOVO\PCB_AUTOOSCILANTE.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_autooscilante-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_autooscilante-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AUTOOSCILANTE_NOVO.PrjPcb]
+   Generated File[PCB_AUTOOSCILANTE-RoundHoles.TXT]
+   Generated File[PCB_AUTOOSCILANTE-SlotHoles.TXT]
+   Generated File[PCB_AUTOOSCILANTE.LDP]
+   Generated File[PCB_AUTOOSCILANTE.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 02:49:58 On 30/06/2026
